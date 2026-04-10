@@ -2,7 +2,8 @@
 📊 Project Report: Personal Monthly Budget Dashboard
 Tools Used: Google Sheets, SUMIF, INDEX/MATCH, LARGE, Conditional Formatting, Data Visualization
 
-![budget_dashboard](DASHBOARD-TEMPLATE.png)
+![budget_dashboard](DASHBOARD_TEMPLATE.png)
+
 
 
 1. Project Overview
