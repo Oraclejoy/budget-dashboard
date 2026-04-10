@@ -1,10 +1,9 @@
 
 📊 Project Report: Personal Monthly Budget Dashboard
 Tools Used: Google Sheets, SUMIF, INDEX/MATCH, LARGE, Conditional Formatting, Data Visualization
-Category: Personal Finance Analytics 
 
 ![Budget_Dashboard](DASHBOARD-TEMPLATE.png)
-https://github.com/Oraclejoy/budget-dashboard/blob/main/DASHBOARD%20TEMPLATE.png
+
 
 1. Project Overview
 This project involved designing and building a fully functional Personal Monthly Budget Dashboard in Google Sheets. The goal was to create a structured, automated tool that tracks income, expenses, and savings in real time — giving users a clear financial picture at a glance.
