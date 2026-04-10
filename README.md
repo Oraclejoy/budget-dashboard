@@ -1,10 +1,10 @@
 
 📊 Project Report: Personal Monthly Budget Dashboard
+
 Tools Used: Google Sheets, SUMIF, INDEX/MATCH, LARGE, Conditional Formatting, Data Visualization
+[View Live Dashboard](https://docs.google.com/spreadsheets/d/1rIU0GSj2Qf_lyevKv7LyEXFt2s8i68ciZNYIzEGzZZo/edit?usp=sharing)
 
 ![budget_dashboard](DASHBOARD_TEMPLATE.png)
-
-
 
 1. Project Overview
 This project involved designing and building a fully functional Personal Monthly Budget Dashboard in Google Sheets. The goal was to create a structured, automated tool that tracks income, expenses, and savings in real time — giving users a clear financial picture at a glance.
@@ -26,7 +26,9 @@ The dashboard was structured around a clean, template-driven layout with clearly
 
 3.2 Formulas & Logic
 SUMIF was used to automatically total income and expenses by category, pulling figures from raw data entries and mapping them to the correct budget line items — eliminating the need for manual addition.
+
 LARGE + INDEX/MATCH array formulas were used to dynamically identify and display the top spending categories. This combination allowed the dashboard to rank expenses in real time without sorting the underlying data, keeping the raw records intact.
+
 Protected Ranges were applied to formula cells and structural layout areas to prevent accidental overwrites, ensuring the dashboard remains stable even during regular use.
 Conditional Formatting was configured to flag budget overruns visually — cells automatically change colour when spending exceeds the set limit for a category, providing an instant visual alert without any manual checking.
 
